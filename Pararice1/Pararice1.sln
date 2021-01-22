@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1_Pararice1", "Ex1_Pararice1\Ex1_Pararice1.csproj", "{AB9E4755-FFF6-497C-8C59-726823F316B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2_Paratice2", "Ex2_Paratice2\Ex2_Paratice2.csproj", "{5005091A-87E2-498E-90DA-BD59853D918C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9E4755-FFF6-497C-8C59-726823F316B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9E4755-FFF6-497C-8C59-726823F316B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9E4755-FFF6-497C-8C59-726823F316B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9E4755-FFF6-497C-8C59-726823F316B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5005091A-87E2-498E-90DA-BD59853D918C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5005091A-87E2-498E-90DA-BD59853D918C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5005091A-87E2-498E-90DA-BD59853D918C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5005091A-87E2-498E-90DA-BD59853D918C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2FA5BB3-0EEA-4454-AF29-07EEF54FC5A2}
+	EndGlobalSection
+EndGlobal

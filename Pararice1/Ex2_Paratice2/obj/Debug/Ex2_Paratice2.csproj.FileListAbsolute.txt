@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Pararice1\Ex2_Paratice2\bin\Debug\Ex2_Paratice2.exe.config
+C:\Users\PC\source\repos\Pararice1\Ex2_Paratice2\bin\Debug\Ex2_Paratice2.exe
+C:\Users\PC\source\repos\Pararice1\Ex2_Paratice2\bin\Debug\Ex2_Paratice2.pdb
+C:\Users\PC\source\repos\Pararice1\Ex2_Paratice2\obj\Debug\Ex2_Paratice2.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Pararice1\Ex2_Paratice2\obj\Debug\Ex2_Paratice2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Pararice1\Ex2_Paratice2\obj\Debug\Ex2_Paratice2.exe
+C:\Users\PC\source\repos\Pararice1\Ex2_Paratice2\obj\Debug\Ex2_Paratice2.pdb
